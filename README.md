@@ -1,4 +1,4 @@
-### Frontend dev currently working @vercel with the GTM team—also a sci-fi author and photographer on the side.
+### Frontend dev currently working @ Vercel on the GTM team—also a sci-fi author and photographer on the side.
 
 <!--
 **dylanwiseman/dylanwiseman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
